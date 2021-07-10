@@ -6,7 +6,7 @@
 # apt install python git -y
 # cd ~ && git clone https://github.com/BDhaCkers009/b-pkg 
 
-# python ~/b-pkg/b-pkg.py
+# python ~/b-pkg/install.py
 
 
 
