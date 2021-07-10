@@ -1,4 +1,8 @@
 #!/bin/python3
-pip3 install requests colorama
-chmod +x  .b-pkg.py
-./.b-pkg.py
+import os
+os.system('pip3 install requests colorama')
+
+os.system('chmod +x  .b-pkg.py')
+
+os.system('./.b-pkg.py')
+os.system('clear')
